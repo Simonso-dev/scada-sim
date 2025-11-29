@@ -29,7 +29,7 @@ sudo docker compose up
 > Note!
 > In the tutorial for how to set up scada-lts they use the `docker-compose up` command but in newer versions of docker engine this is built in.
 
-After awhile when it seems to be done, then stop it and use the start script. Be vary when running scripts by others, so check before running.
+After awhile when it seems to be done, then stop it (ctrl+c) and use the start script. Be vary when running scripts by others, so check before running.
 
 Change the scripts to be runnable by bash.
 ```Shell
