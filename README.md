@@ -4,7 +4,7 @@ A SCADA simulation using SCADA-LTS and pymodbus to demonstrate attacks.
 ## Disclaimer
 This repository is provided **strictly for educational and research purposes**. The examples and demonstrations of attacks are intended to help developers, security professionals, and students understand vulnerabilities and improve defensive measures.
 
-**Do not use this code or information for illegal, unethical, or unauthorized activities.** The author(s) assume no responsibility for misuse. By using this repository, you agree to comply with all applicable laws and regulations.
+**Do not use this code or information for illegal, unethical, or unauthorized activities.** We assume no responsibility for misuse. By using this repository, you agree to comply with all applicable laws and regulations.
 
 ## Before you get started
 This system is made to be run on linux and has been specifically tested on Ubuntu 24.04.1
