@@ -10,7 +10,7 @@ client = ModbusTcpClient("172.25.213.130", port=5020)
 client.connect()
 
 # Force fan on (coil 0)
-client.write_coil(0, False)
+client.write_coil(0, True)
 
 # Confirm change.
 res = client.read_coils(0)
